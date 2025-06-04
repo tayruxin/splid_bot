@@ -10,6 +10,8 @@ You can use the bot directly on Telegram:
 
 No installation or setup required. Just start chatting with the bot to begin splitting expenses!
 
+<img src="https://github.com/user-attachments/assets/68afac4b-ec37-4ec3-a4b7-4eca45685448" alt="Spliding Bot Screenshot" width="400"/>
+
 ## 🚀 Features
 
 - Split expenses fairly among multiple people
@@ -36,5 +38,8 @@ No installation or setup required. Just start chatting with the bot to begin spl
 2. Select **who the expense is for** (payees)
 3. Enter **expense description**
 4. Enter **expense amount**
+
+<img src="https://github.com/user-attachments/assets/14f570a4-d568-484d-a42d-b469ba77740e" alt="Spliding Bot Screenshot" width="400"/>
+
 
 The bot will then calculate how much each person owes or is owed, based on equal splitting.
