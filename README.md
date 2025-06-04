@@ -1,6 +1,14 @@
-# 💸 Splid_bot
+# 💸 Splid_bot [@Spliding_bot](https://t.me/Spliding_bot)
 
 A simple Telegram bot to split expenses among friends during outings. Easily record who paid, who owes, and settle up at the end!
+
+## 🔗 Try It Instantly
+
+You can use the bot directly on Telegram:
+
+👉 [**@Spliding_bot**](https://t.me/Spliding_bot)
+
+No installation or setup required. Just start chatting with the bot to begin splitting expenses!
 
 ## 🚀 Features
 
@@ -30,18 +38,3 @@ A simple Telegram bot to split expenses among friends during outings. Easily rec
 4. Enter **expense amount**
 
 The bot will then calculate how much each person owes or is owed, based on equal splitting.
-
-## 🛠 Setup
-
-### Prerequisites
-
-- Python 3.7+
-- A Telegram bot token (create one with [@BotFather](https://t.me/BotFather))
-
-### Installation
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/tayruxin/splid_bot.git
-   cd splid_bot
